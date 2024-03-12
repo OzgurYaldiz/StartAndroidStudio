@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ArtCollection</string>
+    <string name="ishock_made_painter_robot_1">IShock made Painter Robot 1</string>
+    <string name="ishock_2024_1">Ishock 2024-1</string>
+    <string name="step_1">Step 1</string>
+    <string name="ishock_made_painter_robot_2">Ishock Made Painter Robot 2</string>
+    <string name="ishock_made_painter_robot_3">Ishock Made Painter Robot 3</string>
+    <string name="ishock_2024_2">IShock 2024-2</string>
+    <string name="ishock_2024_3">Ishock 2024-3</string>
+</resources>
